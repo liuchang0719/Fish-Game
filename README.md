@@ -16,5 +16,4 @@ Game Effects:
 Game control:
   Start button;
   Restart button;
-  Different levels of difficulties controls the number of balls and the time baby fish will live without getting fed.
   
