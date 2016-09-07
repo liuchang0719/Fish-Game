@@ -17,3 +17,6 @@ Game control:
   Start button;
   Restart button;
   
+  ![image](https://github.com/liuchang0719/Fish-Game/blob/master/src/static.png)
+  <i>The initial interface</i>
+  
